@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+header {
+
+    background-image: linear-gradient(to right, #72CFED,#186C86);
+    margin: 0;
+    padding-right: 60%;
+    width: 100%;
+
+
+}
+
+h1 img{
+    
+    padding: 25px 5em;
+    
+}
+
+body{
+
+    background-color: rgb(252, 252, 252);
+}
+
+main{
+
+    display: flex;
+    justify-content: space-around;
+    max-width: 70em;
+    margin: 2em;
+    gap: 2em;
+    row-gap: 5em;
+    padding-left: 20em;
+    
+    
+
+}
+
+section{
+
+    border: 2px solid rgb(212, 212, 212);
+    width: 30em;
+    padding: 2em 8px 15em;
+    box-shadow: 1px 1px 1px 1px rgb(221, 221, 221);
+    
+
+}
+
+h2 {
+
+    color: #186C86;
+    padding: 20px;
+
+}
+
+span {
+
+    padding-left: 16em;
+    color: rgb(196, 194, 194);
+
+}
